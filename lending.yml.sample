@@ -1,0 +1,7 @@
+ftx:
+  api_key:
+  api_secret:
+  subaccount_name:
+lending:
+  USD: -1
+ratio: 0.95
